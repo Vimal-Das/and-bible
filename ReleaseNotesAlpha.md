@@ -1,0 +1,22 @@
+# Alpha Build Release Notes #
+
+Below are release notes for recent alpha builds.  See [this page](AlphaBetaTesting.md) for access to alpha releases.
+
+## 1 June ##
+  * Fix Maximise sync
+  * Fix opening links in same window
+
+## 30 May ##
+  * Fix links to specific Bible versions
+  * Add maximise window functionality
+  * Ability to disable use of dedicated links window in Settings
+  * Add 2 missing Synodal and SynodalProt versification mappings
+
+## 23 May ##
+  * Unlimited windows (split screens)
+  * Various window manipulation functions in menu
+  * Row of minimised windows
+  * Book initial is used in minimised icon to enable re-selection of specific minimised screens
+  * Removed Settings/Split
+  * Added sub-menu and short-cut by long-pressing minimise button
+  * Links now open a dedicated, re-used link window rather than replacing the current screen
